@@ -1,5 +1,5 @@
 {
-  "name": "@sendgrid/mail",
+  "name": "@brencon/sendgrid-mail",
   "description": "Twilio SendGrid NodeJS mail service",
   "version": "6.4.0",
   "author": "Twilio SendGrid <dx@sendgrid.com> (sendgrid.com)",
