@@ -192,6 +192,7 @@ class MailService {
       const request = {
         method: 'POST',
         url: '/v3/mail/send',
+        rejectUnauthorized: false, // TODO: convert this to config or env option
         body,
       };
 
